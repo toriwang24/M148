@@ -1,5 +1,5 @@
 # UCLA Math 148 Capstone
-This is the repository of Ayaan Gopalan, Tori Wang, Xi Wu, and Ethan Young.
+This is the project repository of Ayaan Gopalan, Tori Wang, Xi Wu, and Ethan Young.
 
 ## Main Pipelines
 Below are brief descriptions of the _.ipynb_ and _.py_ files to run the data engineering and model training pipelines.
@@ -10,4 +10,4 @@ Below are brief descriptions of the _.ipynb_ and _.py_ files to run the data eng
 
 ### Neural Network
 
-Updated: 3/1/23
+Updated: 3/6/23
